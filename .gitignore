@@ -1,0 +1,51 @@
+# Java class files
+*.class
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Logs
+log/
+logs/
+*.log
+
+# Spring Boot Devtools
+RestartTriggerFile
+
+# Thymeleaf cache
+template/cache/
+
+# Caches
+*.cache
+*.war
+*.ear
+*.jar
+
+# Misc
+classpath*.txt
+*.properties
+
+
+
